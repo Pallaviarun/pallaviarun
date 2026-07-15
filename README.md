@@ -1,6 +1,6 @@
 <div align="center">
 Hi 👋, I'm Pallavi G A<br>
-A passionate Software developer 
+
 </div>
 🎓 BE CSE Graduate 2026<br> 💻 Aspiring IT Professional<br> 🌱 Continuously Learning<br>🚀 Open to Opportunities
 
