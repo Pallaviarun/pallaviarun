@@ -1,5 +1,5 @@
 Hi 👋, I'm Pallavi G A
-A passionate developer from India
+# A passionate developer from India
 # 💫 About Me:
 🎓 BE CSE Graduate 2026<br> 💻 Aspiring IT Professional<br> 🌱 Continuously Learning<br>🚀 Open to Opportunities
 
